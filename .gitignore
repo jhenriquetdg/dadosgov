@@ -1,4 +1,5 @@
 /.ipynb_checkpoints
-/data
+/data/*
+!/data/organizations_20240119.json
 /nx.html
 /.env
