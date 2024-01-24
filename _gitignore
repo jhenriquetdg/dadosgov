@@ -1,6 +1,0 @@
-/.ipynb_checkpoints
-/data/*
-!/data/organizations_20240119.json
-!/data/universidade_federal_do_rio_grande_do_norte_-_ufrn.json
-/nx.html
-/.env
