@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dadosgov"
+  site-url: "https://jhenriquetdg.github.io/dadosgov"
+  description: "Data retrival and analysis of brazilian governmental data"
+  repo-branch: main
+  repo-url: "https://github.com/jhenriquetdg/dadosgov"
