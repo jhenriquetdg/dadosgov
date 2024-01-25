@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jhenriquetdg.github.io',
                 'git_url': 'https://github.com/jhenriquetdg/dadosgov',
                 'lib_path': 'dadosgov'},
-  'syms': {'dadosgov.core': {'dadosgov.core.foo': ('core.html#foo', 'dadosgov/core.py')}}}
+  'syms': { 'dadosgov.core': { 'dadosgov.core.foo': ('core.html#foo', 'dadosgov/core.py'),
+                               'dadosgov.core.test': ('core.html#test', 'dadosgov/core.py')}}}
